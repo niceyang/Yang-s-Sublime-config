@@ -14,8 +14,4 @@
                 "extensions":".*"
             }
      },
-
-     { "keys": ["alt+/"], "command": "auto_complete" }
-
-     
 ]

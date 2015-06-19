@@ -1,10 +1,17 @@
 {
+<<<<<<< HEAD
 	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/User/SublimeLinter/IDLE (SL).tmTheme",
 	"font_size": 15,
 	"ignored_packages":
 	[
 		"PHP",
+=======
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+>>>>>>> parent of c1b4ebe... My sublime config
 		"Vintage"
 	]
 }
