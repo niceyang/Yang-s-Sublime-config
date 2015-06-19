@@ -1,9 +1,9 @@
- {
- 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
- 	"font_size": 14,
- 	"ignored_packages":
- 	[
-		"Vintage",
-		"PHP"
- 	]
- }
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
+
